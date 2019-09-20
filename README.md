@@ -1,4 +1,4 @@
-![Logo](https://i.postimg.cc/nrxkYgrz/IMG-20190919-104430.jpg)
+![Logo](https://s33.postimg.cc/o1o8eafxb/IMG_20180604_174521.png)
 
 # MIUIAndroid MIUI10 Korean Translations.
     This is repository for MIUIAndroid MultiRom project.
